@@ -1,4 +1,3 @@
-![Profile Views](https://github-vistors-counter.onrender.com/github?username=carlxxsinenomine)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=carlxxsinenomine&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
