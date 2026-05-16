@@ -21,9 +21,9 @@
   <a href="https://github.com/carlxxsinenomine">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlxxsinenomine&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="carlxxsinenomine's GitHub Stats" />
   </a>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=carlxxsinenomine&theme=dracula&hide_border=true&cache_seconds=86400" alt="carlxxsinenomine's GitHub Streak" width="49%" />
 </p>
-<br>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=carlxxsinenomine&theme=dracula&radius=10" alt="carlxxsinenomine's Activity Graph" />
 </p>
