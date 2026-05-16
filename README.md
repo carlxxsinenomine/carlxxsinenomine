@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Mobile Application Development
@@ -19,22 +19,24 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/carlxxsinenomine">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlxxsinenomine&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="carlxxsinenomine's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlxxsinenomine&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="carlxxsinenomine's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=carlxxsinenomine&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="carlxxsinenomine's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=carlxxsinenomine&theme=dracula&hide_border=true&cache_seconds=86400" alt="carlxxsinenomine's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=carlxxsinenomine&theme=gruvbox&radius=10" alt="carlxxsinenomine's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=carlxxsinenomine&theme=dracula&radius=10" alt="carlxxsinenomine's Activity Graph" />
 </p>
 
 
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/carlxxsinenomine">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlxxsinenomine&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlxxsinenomine&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
+## 💬 Quote
+> Tite
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
