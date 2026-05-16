@@ -23,6 +23,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=carlxxsinenomine&theme=dracula&hide_border=true&cache_seconds=86400" alt="carlxxsinenomine's GitHub Streak" width="49%" />
 </p>
+<br>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=carlxxsinenomine&theme=dracula&radius=10" alt="carlxxsinenomine's Activity Graph" />
 </p>
