@@ -14,6 +14,7 @@
 - Deep Learning
 - Data Science
 - Backend Development
+- GIS Application Development
 
 
 ## 📊 GitHub Stats & Trophies
