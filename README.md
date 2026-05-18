@@ -15,6 +15,7 @@
 - Data Science
 - Backend Development
 - GIS Application Development
+- Software Engineering
 
 
 ## 📊 GitHub Stats & Trophies
