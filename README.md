@@ -30,14 +30,6 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=carlxxsinenomine&theme=dracula&radius=10" alt="carlxxsinenomine's Activity Graph" />
 </p>
 
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/carlxxsinenomine">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlxxsinenomine&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 💬 Quote
 > Tite
 
