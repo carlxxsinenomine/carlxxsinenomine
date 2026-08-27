@@ -9,4 +9,4 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 💬 Quote
-> I hate it when a vibecoder compare themselves to me. TANGINAMO MAG CODE KA SA HARAP KO GAGO.
+> I hate it when a vibecoder compares themselves to me. TANGINAMO MAG CODE KA SA HARAP KO GAGO.
